@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.InstaMeal" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorCard1Background">@color/dark_card_welcome_back</item>
+        <item name="colorCard2Background">@color/dark_card_shake_prompt</item>
+        <item name="colorOnCardText">@color/dark_text_on_card</item>
+        <item name="colorBackground">@color/dark_background</item>
+        <item name="colorLogo">@color/dark_logo</item>
+
+
+        <item name="textColorPrimary">@color/dark_text_primary</item>
+    </style>
+</resources>

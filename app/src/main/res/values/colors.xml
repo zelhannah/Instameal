@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="my_dark_primary">#6200EE</color> <!-- You can customize this color -->
+    <color name="my_dark_on_primary">#FFFFFF</color>
+    <color name="dark_card_background">#F5F5F5</color> <!-- Light theme card color -->
+    <color name="dark_background">#121212</color> <!-- Light theme background color -->
+
+
+    <!-- Card Background Colors -->
+    <color name="dark_card_welcome_back">#6D4A9E</color> <!-- Dark purple for welcome card -->
+    <color name="dark_card_shake_prompt">#545BAE</color> <!-- Darker purple for shake prompt card -->
+
+
+    <!-- Text Colors -->
+    <color name="dark_text_on_card">#FFFFFF</color> <!-- White text on cards -->
+    <color name="dark_text_primary">#FFFFFF</color> <!-- White for main text -->
+    <color name="dark_text_secondary">#CCCCCC</color> <!-- Lighter gray for secondary text -->
+
+
+    <!-- Background Colors -->
+    <!-- <color name="dark_background">#121212</color> Dark background color -->
+    <color name="dark_logo">#FF000000</color> <!-- General background color -->
+
+
+    <!-- Light Color -->
+    <!-- Primary Colors -->
+
+
+    <color name="my_light_primary">#6200EE</color> <!-- Purple for action bar -->
+    <color name="my_light_on_primary">#FFFFFF</color> <!-- White text on primary -->
+
+
+    <!-- Card Background Colors -->
+    <color name="light_card_welcome_back">#AC7CC4</color> <!-- Light purple for welcome card -->
+    <color name="light_card_shake_prompt">#808CC6</color> <!-- Slightly darker purple for shake prompt card -->
+
+
+    <!-- Text Colors -->
+    <color name="light_text_on_card">#FFFFFF</color> <!-- White text on cards -->
+    <color name="light_text_primary">#000000</color> <!-- Black for main text -->
+    <color name="light_text_secondary">#757575</color> <!-- Gray for secondary text -->
+
+
+    <!-- Background Colors -->
+    <color name="light_background">#FFFFFF</color> <!-- General background color -->
+    <color name="light_logo">#FFFFFF</color> <!-- General background color -->
+
+
+    <color name="rd_light_text_primary">#333333</color>
+    <color name="rd_light_text_secondary">#666666</color>
+    <color name="rd_light_text_tertiary">#555555</color>
+</resources>

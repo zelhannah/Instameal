@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.instameal.app-mergeDebugResources-31:/layout/dialog_rename_image.xml",
+        "source": "com.example.instameal.app-main-34:/layout/dialog_rename_image.xml"
+    },
+    {
+        "merged": "com.example.instameal.app-mergeDebugResources-31:/layout/fragment_recipe_details.xml",
+        "source": "com.example.instameal.app-main-34:/layout/fragment_recipe_details.xml"
+    },
+    {
+        "merged": "com.example.instameal.app-mergeDebugResources-31:/layout/fragment_home.xml",
+        "source": "com.example.instameal.app-main-34:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.instameal.app-mergeDebugResources-31:/layout/activity_navigation.xml",
+        "source": "com.example.instameal.app-main-34:/layout/activity_navigation.xml"
+    },
+    {
+        "merged": "com.example.instameal.app-mergeDebugResources-31:/layout/fragment_history.xml",
+        "source": "com.example.instameal.app-main-34:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "com.example.instameal.app-mergeDebugResources-31:/layout/recipe_item.xml",
+        "source": "com.example.instameal.app-main-34:/layout/recipe_item.xml"
+    },
+    {
+        "merged": "com.example.instameal.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "com.example.instameal.app-main-34:/layout/activity_main.xml"
+    }
+]

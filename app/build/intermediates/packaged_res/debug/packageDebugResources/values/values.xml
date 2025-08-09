@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="color" name="colorBackground"/>
+    <attr format="color" name="colorCard1Background"/>
+    <attr format="color" name="colorCard2Background"/>
+    <attr format="color" name="colorLogo"/>
+    <attr format="color" name="colorOnCardText"/>
+    <attr format="color" name="textColorPrimary"/>
+    <color name="black">#FF000000</color>
+    <color name="dark_background">#121212</color>
+    <color name="dark_card_background">#F5F5F5</color>
+    <color name="dark_card_shake_prompt">#545BAE</color>
+    <color name="dark_card_welcome_back">#6D4A9E</color>
+    <color name="dark_logo">#FF000000</color>
+    <color name="dark_text_on_card">#FFFFFF</color>
+    <color name="dark_text_primary">#FFFFFF</color>
+    <color name="dark_text_secondary">#CCCCCC</color>
+    <color name="light_background">#FFFFFF</color>
+    <color name="light_card_shake_prompt">#808CC6</color>
+    <color name="light_card_welcome_back">#AC7CC4</color>
+    <color name="light_logo">#FFFFFF</color>
+    <color name="light_text_on_card">#FFFFFF</color>
+    <color name="light_text_primary">#000000</color>
+    <color name="light_text_secondary">#757575</color>
+    <color name="my_dark_on_primary">#FFFFFF</color>
+    <color name="my_dark_primary">#6200EE</color>
+    <color name="my_light_on_primary">#FFFFFF</color>
+    <color name="my_light_primary">#6200EE</color>
+    <color name="rd_light_text_primary">#333333</color>
+    <color name="rd_light_text_secondary">#666666</color>
+    <color name="rd_light_text_tertiary">#555555</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">InstaMeal</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="Theme.InstaMeal" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorCard1Background">@color/light_card_welcome_back</item>
+        <item name="colorCard2Background">@color/light_card_shake_prompt</item>
+        <item name="colorOnCardText">@color/light_text_on_card</item>
+        <item name="colorBackground">@color/light_background</item>
+        <item name="colorLogo">@color/light_logo</item>
+
+
+        <item name="textColorPrimary">@color/light_text_primary</item>
+    </style>
+</resources>
